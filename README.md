@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1A94y1z77C/](https://www.bilibili.com/video/BV1A94y1z77C/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot+Vue的酒店管理系统(源码+数据库)095
 
@@ -140,7 +140,7 @@
 
 7、Hbuilder运行hotel-app，打开后是app页面
 
-**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
+**完整代码收费  可以加qq 1556708905 或者加微信zheng0123Long 咨询**
 
 **接毕业设计和论文**
 
